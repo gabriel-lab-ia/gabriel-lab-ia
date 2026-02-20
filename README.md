@@ -1,5 +1,4 @@
 Gabriel Duarte.
-
 Reinforcement Learning Engineer (Early-Career) • GPU Systems • Robotics Simulation • Autonomous Systems Based on Artificial Intelligence
 
 BSc in Artificial Intelligence (1st Semester). Engineering trajectory focused on Reinforcement Learning, GPU-accelerated physics simulation, and low-latency inference pipelines built on the NVIDIA ecosystem.
