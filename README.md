@@ -35,6 +35,7 @@ Formal academic curriculum providing foundational competencies in mathematics, c
 This degree provides the theoretical and computational base for AI systems, while my Independent Engineering Track (below) covers advanced Reinforcement Learning, GPU systems, simulation, robotics, optimization, and deployment engineering beyond the curriculum.
 
 Academic Curriculum Structured:
+
 Semester 1
 ~ Conversational Agents
 ~ Linear Algebra and Analytic Geometry
