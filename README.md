@@ -121,5 +121,3 @@ Large-scale RL infrastructure
 Low-latency robotic control systems
 Full-stack kinematic/deployment architectures
 End-to-end optimization of models + simulators
-
-“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” - Alan Turing
