@@ -6,26 +6,26 @@ BSc in Artificial Intelligence (1st Semester). Engineering trajectory focused on
 Work centered on control, optimization, and systems engineering, integrating TensorRT, CUDA, Isaac-based physics engines, and modern robotics frameworks.
 
 Essential technical areas under daily development with peak performance:
-• Reinforcement Learning Engineering
-• PPO / SAC / TD3
-• Policy export: PyTorch → ONNX → TensorRT FP16
-• Latency-oriented benchmarks (CPU vs CUDA vs TensorRT)
-• Real-time continuous-control evaluation
-• GPU & High-Performance Computing
-• CUDA Toolkit 12.0 + CUDA Runtime 13
-• PyTorch CUDA
-• TensorRT 10 (builder, engines, FP16 optimization)
-• Parallel simulation and vectorized training workflows
-• Simulation & Robotics
-• NVIDIA Isaac Gym
-• MuJoCo 3.5
-• Control-loop engineering
-• ROS2 (Jazzy)
-• EdgeAI & Deployment
-• Low-latency inference design
-• ONNX Runtime CUDA
-• Real-time RL system execution
-• Model compression and runtime optimization
+Reinforcement Learning Engineering
+PPO / SAC / TD3
+Policy export: PyTorch → ONNX → TensorRT FP16
+Latency-oriented benchmarks (CPU vs CUDA vs TensorRT)
+Real-time continuous-control evaluation
+GPU & High-Performance Computing
+CUDA Toolkit 12.0 + CUDA Runtime 13
+PyTorch CUDA
+TensorRT 10 (builder, engines, FP16 optimization)
+Parallel simulation and vectorized training workflows
+Simulation & Robotics
+NVIDIA Isaac Gym
+MuJoCo 3.5
+Control-loop engineering
+ROS2 (Jazzy)
+EdgeAI & Deployment
+Low-latency inference design
+ONNX Runtime CUDA
+Real-time RL system execution
+Model compression and runtime optimization
 
 Academic Formation:
 BSc in Artificial Intelligence — UniCEUB (Campus Asa Norte)
@@ -36,59 +36,59 @@ This degree provides the theoretical and computational base for AI systems, whil
 
 Academic Curriculum Structured:
 
-Semester 1
-• Conversational Agents
-• Linear Algebra and Analytic Geometry
-• Bootcamp I
-• Software Engineering
-• Programming Logic
-• Probability and Statistics
+• Semester 1
+Conversational Agents
+Linear Algebra and Analytic Geometry
+Bootcamp I
+Software Engineering
+Programming Logic
+Probability and Statistics
 
-Semester 2
-• Calculus for Computing
-• Cloud Computing
-• Ethical Dialogues and Reflections
-• Cybersecurity Fundamentals
-• Foundations of Artificial Intelligence
+• Semester 2
+Calculus for Computing
+Cloud Computing
+Ethical Dialogues and Reflections
+Cybersecurity Fundamentals
+Foundations of Artificial Intelligence
 
 Semester 3
-• Machine Learning
-• Database Systems
-• NoSQL Systems
-• Bootcamp II
-• Advanced Calculus for Computing
-• AI Development I
-• Digital Signal Processing for AI
+Machine Learning
+Database Systems
+NoSQL Systems
+Bootcamp II
+Advanced Calculus for Computing
+AI Development I
+Digital Signal Processing for AI
 
 Semester 4
-• Systems Analysis and Design
-• Deep Learning
-• AI Development II
-• AI Data Structures
-• Project Management
-• Artificial Neural Networks
+Systems Analysis and Design
+Deep Learning
+AI Development II
+AI Data Structures
+Project Management
+Artificial Neural Networks
 
 Semester 5
-• Algorithm Analysis and Design
-• Bootcamp III
-• AI Entrepreneurship
-• Natural Language Processing
-• Integrative Project I
-• Computer Vision
+Algorithm Analysis and Design
+Bootcamp III
+AI Entrepreneurship
+Natural Language Processing
+Integrative Project I
+Computer Vision
 
 Semester 6
-• Unsupervised Learning
-• High-Performance Computing (HPC)
-• MLOps
-• Elective I
-• Integrative Project II
+Unsupervised Learning
+High-Performance Computing (HPC)
+MLOps
+Elective I
+Integrative Project II
 
 Semester 7
-• Bootcamp IV
-• Generative Artificial Intelligence
-• Elective II
-• Integrative Project III
-• Special Topics in Artificial Intelligence
+Bootcamp IV
+Generative Artificial Intelligence
+Elective II
+Integrative Project III
+Special Topics in Artificial Intelligence
 
 This academic track establishes the formal baseline:
 Mathematics for AI (algebra, calculus, probability, optimization)
@@ -105,20 +105,20 @@ Capstone projects and applied AI design
 one academic, one technically aggressive and industry-aligned.
 
 Technical roadmap for individual performance during the university period:
-• Mathematics for RL (linear algebra, optimization, probability)
-• CUDA runtime behavior, profiling, and memory models
-• TensorRT optimization workflows
-• Isaac Gym fundamentals
-• ROS2 operational basics
-• Advanced continuous control
-• Massive GPU-parallel simulation (Isaac Gym)
-• Distributed training pipelines
-• Navigation/manipulation in ROS2 environments
-• Custom CUDA kernels
-• Specialized physics simulators
-• EdgeAI deployment (Jetson Orin)
-• TensorRT + Triton end-to-end pipelines
-• Large-scale RL infrastructure
-• Low-latency robotic control systems
-• Full-stack kinematic/deployment architectures
-• End-to-end optimization of models + simulators
+Mathematics for RL (linear algebra, optimization, probability)
+CUDA runtime behavior, profiling, and memory models
+TensorRT optimization workflows
+Isaac Gym fundamentals
+ROS2 operational basics
+Advanced continuous control
+Massive GPU-parallel simulation (Isaac Gym)
+Distributed training pipelines
+Navigation/manipulation in ROS2 environments
+Custom CUDA kernels
+Specialized physics simulators
+EdgeAI deployment (Jetson Orin)
+TensorRT + Triton end-to-end pipelines
+Large-scale RL infrastructure
+Low-latency robotic control systems
+Full-stack kinematic/deployment architectures
+End-to-end optimization of models + simulators
