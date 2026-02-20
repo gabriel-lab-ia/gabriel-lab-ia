@@ -37,58 +37,58 @@ This degree provides the theoretical and computational base for AI systems, whil
 Academic Curriculum Structured:
 
 • Semester 1
-Conversational Agents
-Linear Algebra and Analytic Geometry
-Bootcamp I
-Software Engineering
-Programming Logic
-Probability and Statistics
+~ Conversational Agents
+~ Linear Algebra and Analytic Geometry
+~ Bootcamp I
+~ Software Engineering
+~ Programming Logic
+~ Probability and Statistics
 
 • Semester 2
-Calculus for Computing
-Cloud Computing
-Ethical Dialogues and Reflections
-Cybersecurity Fundamentals
-Foundations of Artificial Intelligence
+~ Calculus for Computing
+~ Cloud Computing
+~ Ethical Dialogues and Reflections
+~ Cybersecurity Fundamentals
+~ Foundations of Artificial Intelligence
 
 Semester 3
-Machine Learning
-Database Systems
-NoSQL Systems
-Bootcamp II
-Advanced Calculus for Computing
-AI Development I
-Digital Signal Processing for AI
+~ Machine Learning
+~ Database Systems
+~ NoSQL Systems
+~ Bootcamp II
+~ Advanced Calculus for Computing
+~ AI Development I
+~ Digital Signal Processing for AI
 
 Semester 4
-Systems Analysis and Design
-Deep Learning
-AI Development II
-AI Data Structures
-Project Management
-Artificial Neural Networks
+~ Systems Analysis and Design
+~ Deep Learning
+~ AI Development II
+~ AI Data Structures
+~ Project Management
+~ Artificial Neural Networks
 
 Semester 5
-Algorithm Analysis and Design
-Bootcamp III
-AI Entrepreneurship
-Natural Language Processing
-Integrative Project I
-Computer Vision
+~ Algorithm Analysis and Design
+~ Bootcamp III
+~ AI Entrepreneurship
+~ Natural Language Processing
+~ Integrative Project I
+~ Computer Vision
 
 Semester 6
-Unsupervised Learning
-High-Performance Computing (HPC)
-MLOps
-Elective I
-Integrative Project II
+~ Unsupervised Learning
+~ High-Performance Computing (HPC)
+~ MLOps
+~ Elective I
+< Integrative Project II
 
 Semester 7
-Bootcamp IV
-Generative Artificial Intelligence
-Elective II
-Integrative Project III
-Special Topics in Artificial Intelligence
+~ Bootcamp IV
+~ Generative Artificial Intelligence
+~ Elective II
+~ Integrative Project III
+~ Special Topics in Artificial Intelligence
 
 This academic track establishes the formal baseline:
 Mathematics for AI (algebra, calculus, probability, optimization)
