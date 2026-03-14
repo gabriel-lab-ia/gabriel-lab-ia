@@ -1,12 +1,13 @@
 Gabriel Duarte.
-Machine Learning / Reinforcement Learning Engineer (Early-Career) • GPU Systems • Robotics Simulation • Autonomous Systems Based on Artificial Intelligence
+Machine Learning / Reinforcement Learning Engineer (Early-Career) • Machine Learning • Deep Learning • Reinforcement Learning • Robotics Simulation • Systems Based on Artificial Intelligence
 
-BSc in Artificial Intelligence (1st Semester). Engineering trajectory focused on Reinforcement Learning, GPU-accelerated physics simulation, and low-latency inference pipelines built on the NVIDIA ecosystem.
+BSc in Artificial Intelligence (1st Semester). Engineering trajectory focused on Machine Learning, Data Analysis, Reinforcement Learning, physics simulation, and low-latency inference pipelines built on the GPUs ecosystem.
 
 Work centered on control, optimization, and systems engineering, integrating TensorRT, CUDA, Isaac-based physics engines, and modern robotics frameworks.
 
 Essential technical areas under daily development with peak performance:
-Reinforcement Learning Engineering
+Machine Learning for Data's
+Reinforcement Learning Engineering:
 PPO / SAC / TD3
 Policy export: PyTorch → ONNX → TensorRT FP16
 Latency-oriented benchmarks (CPU vs CUDA vs TensorRT)
