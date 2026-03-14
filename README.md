@@ -1,5 +1,5 @@
 Gabriel Duarte.
-(Early-Career) • Machine Learning • Deep Learning • Reinforcement Learning • Robotics Simulation • Systems Based on Artificial Intelligence
+(Bachelor's Student ~ Early-Career) • Machine Learning • Deep Learning • Reinforcement Learning • Robotics Simulation • Systems Based on Artificial Intelligence
 
 BSc in Artificial Intelligence (1st Semester). Engineering trajectory focused on Machine Learning, Data Analysis, Reinforcement Learning, physics simulation, and low-latency inference pipelines built on the GPUs ecosystem.
 
