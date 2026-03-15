@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Banner do projeto NeuroSync-RL" />
+  <img src="assets/banner.svg" alt="Gabriel Duarte profile banner" />
 </p>
 
 <p align="center">
@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/github/stars/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia/commits">
-    <img src="https://img.shields.io/github/last-commit/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Ultimo commit" />
+    <img src="https://img.shields.io/github/last-commit/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Last Commit" />
   </a>
   <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia">
-    <img src="https://img.shields.io/github/repo-size/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Tamanho do repositorio" />
+    <img src="https://img.shields.io/github/repo-size/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Repository Size" />
   </a>
   <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia">
-    <img src="https://img.shields.io/github/languages/top/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Linguagem principal" />
+    <img src="https://img.shields.io/github/languages/top/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Top Language" />
   </a>
 </p>
 
@@ -22,67 +22,102 @@
   <img src="https://img.shields.io/badge/C%2B%2B-High%20Performance-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PyTorch-Tensors%20%26%20Autograd-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" />
-  <img src="https://img.shields.io/badge/Matplotlib-Analise%20de%20Sinais-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-Analysis%20%26%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Jupyter-VS%20Code%20%7C%20Pop!_OS-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Jupyter-Research%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/DRL-Deep%20Reinforcement%20Learning-0F172A?style=for-the-badge" alt="Deep Reinforcement Learning" />
 </p>
 
-# NeuroSync-RL: Interface Cérebro-Máquina de Malha Fechada
+# Gabriel Duarte
 
-Este projeto implementa uma simulação avançada de **Deep Reinforcement Learning (DRL)** focada na simbiose entre Inteligência Artificial e o Cérebro Humano. O sistema modela a co-adaptação entre tensores artificiais e plasticidade biológica, respeitando as leis fundamentais da termodinâmica e do metabolismo cerebral.
+**Bachelor's Student ~ Early-Career**  
+**Machine Learning • Deep Learning • Reinforcement Learning • Robotics Simulation • Systems Based on Artificial Intelligence**
 
-## Arquitetura do Projeto
+BSc in Artificial Intelligence (1st Semester). Engineering trajectory focused on Machine Learning, Data Analysis, Reinforcement Learning, physics simulation, and low-latency inference pipelines built on the GPUs ecosystem.
 
-O motor principal utiliza uma arquitetura inspirada no **Córtex Pré-Frontal** e no **Corpo Estriado**, implementada via **PyTorch**. O modelo evoluiu através de diversas fases:
+Work centered on control, optimization, and systems engineering, integrating TensorRT, CUDA, Isaac-based physics engines, and modern robotics frameworks.
 
-1. **TD-Learning Basal:** Modelagem do Erro de Previsão de Recompensa (Dopamina).
-2. **Transformer & Geometria Analítica:** Detecção de patologias em imagens de RM utilizando mecanismos de *Self-Attention* (GPT-2 Style) e coordenadas cartesianas.
-3. **Monte Carlo & Softmax:** Otimização de política baseada em episódios para seleção de protótipos de hardware.
-4. **Simulação Termodinâmica:** Filtro de viabilidade física baseado no Efeito Joule, Consumo de ATP e Frequências Cerebrais (Alpha, Beta, Gamma).
+## Core Technical Focus
 
-## Protótipos Avaliados
+### Machine Learning and Reinforcement Learning Engineering
+- Machine Learning for data analysis and intelligent systems
+- Reinforcement Learning engineering: PPO / SAC / TD3
+- Real-time continuous-control evaluation
+- Latency-oriented benchmarks: CPU vs CUDA vs TensorRT
 
-| Protótipo | Tecnologia | Viabilidade (Softmax) | Notas de Engenharia |
-| :--- | :--- | :--- | :--- |
-| **A** | Microeletrodos | 0.00% | Falha crítica: Superaquecimento (175°C). |
-| **B** | EEG | ~49.6% | Seguro, mas baixa largura de banda (ruído alto). |
-| **C** | ECoG | 0.00% | Inviável: Estresse térmico acima de 1.5°C. |
-| **D** | **Neuromórfico** | **~50.3%** | **Vencedor: Alta eficiência energética e Sincronia.** |
+### Model Export and Inference Optimization
+- Policy export: PyTorch -> ONNX -> TensorRT FP16
+- ONNX Runtime CUDA
+- Low-latency inference design
+- Real-time RL system execution
+- Model compression and runtime optimization
 
-## Tecnologias Utilizadas
+### GPU and High-Performance Computing
+- CUDA Toolkit 12.0 + CUDA Runtime 13
+- PyTorch CUDA
+- TensorRT 10: builder, engines, and FP16 optimization
+- Parallel simulation and vectorized training workflows
 
-- **Linguagem:** Python 3.12
-- **Deep Learning:** PyTorch (Tensors & Autograd)
-- **Visualização:** Matplotlib (Análise de Sinais e Calor)
-- **Ambiente:** Pop!_OS / VS Code (Jupyter)
-- **Conceitos:** Deep Q-Learning, REINFORCE, Computação Neuromórfica, Geometria Analítica.
+### Simulation and Robotics
+- NVIDIA Isaac Gym
+- MuJoCo 3.5
+- Control-loop engineering
+- ROS2 (Jazzy)
 
-## Como Executar
+## Academic Formation
 
-1. **Ativar o Ambiente:**
-   ```bash
-   source ~/meu-projeto-ml/bin/activate
-   ```
+**BSc in Artificial Intelligence — UniCEUB (Campus Asa Norte)**  
+**Current semester:** 1st semester
 
-2. **Instalar Dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+Formal academic curriculum providing foundational competencies in mathematics, computation, algorithms, software engineering, data systems, cybersecurity, cloud, machine learning, and artificial intelligence.
 
-3. **Executar a Simulação:**
-   ```bash
-   python neuro_sync_rl.py
-   ```
+This degree provides the theoretical and computational base for AI systems, while my Independent Engineering Track covers advanced Reinforcement Learning, GPU systems, simulation, robotics, optimization, and deployment engineering beyond the curriculum.
 
-4. **Visualizar Resultados:**
-   Abra o notebook `analysis.ipynb` no Jupyter para gráficos e análises.
+## Academic Curriculum
 
-## Contribuição
+- Semester 1: Conversational Agents, Linear Algebra and Analytic Geometry, Bootcamp I, Software Engineering, Programming Logic, Probability and Statistics
+- Semester 2: Calculus for Computing, Cloud Computing, Ethical Dialogues and Reflections, Cybersecurity Fundamentals, Foundations of Artificial Intelligence
+- Semester 3: Machine Learning, Database Systems, NoSQL Systems, Bootcamp II, Advanced Calculus for Computing, AI Development I, Digital Signal Processing for AI
+- Semester 4: Systems Analysis and Design, Deep Learning, AI Development II, AI Data Structures, Project Management, Artificial Neural Networks
+- Semester 5: Algorithm Analysis and Design, Bootcamp III, AI Entrepreneurship, Natural Language Processing, Integrative Project I, Computer Vision
+- Semester 6: Unsupervised Learning, High-Performance Computing (HPC), MLOps, Elective I, Integrative Project II
+- Semester 7: Bootcamp IV, Generative Artificial Intelligence, Elective II, Integrative Project III, Special Topics in Artificial Intelligence
 
-Contribuições são bem-vindas! Abra uma issue ou pull request no repositório.
+## Formal Academic Baseline
 
-## Licença
+This academic track establishes the formal baseline in the following areas:
 
-Este projeto está sob a licença MIT.
+- Mathematics for AI: algebra, calculus, probability, and optimization
+- Software engineering and computational thinking
+- Data systems and distributed computation
+- Machine Learning fundamentals
+- Neural networks and Deep Learning
+- Cybersecurity and cloud systems
+- High-Performance Computing and MLOps
+- NLP and Computer Vision
+- Capstone projects and applied AI design
+
+## Dual-Track Development
+
+Combined with my independent engineering development in Reinforcement Learning, Isaac Gym, CUDA 13, TensorRT, MuJoCo, ROS2, low-latency control, and GPU systems, this forms a dual-track training approach: one academic and one technically aggressive, industry-aligned track.
+
+## Technical Roadmap During the University Period
+
+- Mathematics for RL: linear algebra, optimization, and probability
+- CUDA runtime behavior, profiling, and memory models
+- TensorRT optimization workflows
+- Isaac Gym fundamentals
+- ROS2 operational basics
+- Advanced continuous control
+- Massive GPU-parallel simulation with Isaac Gym
+- Distributed training pipelines
+- Navigation and manipulation in ROS2 environments
+- Custom CUDA kernels
+- Specialized physics simulators
+- EdgeAI deployment on Jetson Orin
+- TensorRT + Triton end-to-end pipelines
+- Large-scale RL infrastructure
+- Low-latency robotic control systems
+- Full-stack kinematic and deployment architectures
+- End-to-end optimization of models and simulators
