@@ -2,6 +2,7 @@
   <img src="assets/banner.svg" alt="Gabriel Duarte profile banner" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia/stargazers">
     <img src="https://img.shields.io/github/stars/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="GitHub Stars" />
