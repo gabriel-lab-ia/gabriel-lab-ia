@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Gabriel Duarte profile banner" />
+  <img src="https://raw.githubusercontent.com/gabriel-lab-ia/gabriel-lab-ia/master/assets/banner.svg" alt="Gabriel Duarte profile banner" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia/stargazers">
