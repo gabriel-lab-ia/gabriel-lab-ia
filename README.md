@@ -34,12 +34,9 @@
 **Bachelor's Student ~ Early-Career**  
 **Machine Learning • Deep Learning • Reinforcement Learning**
 
-Engineering trajectory focused on Machine Learning, Data Analysis, Reinforcement Learning, physics simulation, and low-latency inference pipelines built on the GPUs ecosystem.
-
-Work centered on control, optimization, and systems engineering, integrating TensorRT, CUDA, Isaac-based physics engines, and modern robotics frameworks.
+*Engineering trajectory focused on Machine Learning, Data Analysis, Reinforcement Learning, physics simulation, and low-latency inference pipelines built on the GPUs ecosystem.*
 
 ## Core Technical Focus
-
 ### Machine Learning Engineering
 - Machine Learning for Data Analysis and intelligent systems (AI)
 - Reinforcement Learning engineering: PPO / SAC / TD3
