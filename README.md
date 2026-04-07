@@ -32,7 +32,7 @@
 - Convolutional Neural Networks (CNNs)
 - Adversarial Neural Networks (GANs)
 - Recurrent Neural Networks (RNNs)
-- Latency-oriented benchmarks: CPU vs GPU vs CUDA vs TensorRT
+- Latency-oriented benchmarks (CPU, GPU, CUDA, TensorRT...)
 
 ### Model Export and Inference Optimization
 - Policy export: PyTorch -> ONNX -> TensorRT FP16
