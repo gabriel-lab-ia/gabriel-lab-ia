@@ -15,7 +15,7 @@
   
 # Gabriel Duarte
 
-**Bachelor's Student ~ Early-Career**  
+**Bachelor's Student / Early-Career**  
 **Machine Learning • Deep Learning • Reinforcement Learning**
 
 *Engineering trajectory focused on Machine Learning, Data Science, Reinforcement Learning, HPC and low-latency inference pipelines built on the GPUs ecosystem.*
