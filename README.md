@@ -34,16 +34,6 @@
 - Recurrent Neural Networks (RNNs)
 - Latency-oriented benchmarks: CPU vs GPU vs CUDA vs TensorRT
 
-### Cloud AI and Distributed ML Systems
-- Cloud-based model training and inference workflows
-- Hybrid compute architecture (local GPU + cloud GPU)
-- AWS AI ecosystem integration
-- Azure Machine Learning pipelines
-- Experiment tracking and model versioning
-- Scalable inference endpoints
-- Distributed training orchestration concepts
-- Data pipeline integration for ML workloads
-
 ### Model Export and Inference Optimization
 - Policy export: PyTorch -> ONNX -> TensorRT FP16
 - ONNX Runtime CUDA
@@ -63,6 +53,17 @@
 - ROS2 (Jazzy) robotics middleware
 - Reinforcement Learning for control systems
 - Physics-informed policy optimization
+
+- 
+### Cloud AI and Distributed ML Systems
+- Cloud-based model training and inference workflows
+- Hybrid compute architecture (local GPU + cloud GPU)
+- AWS AI ecosystem integration
+- Azure Machine Learning pipelines
+- Experiment tracking and model versioning
+- Scalable inference endpoints
+- Distributed training orchestration concepts
+- Data pipeline integration for ML workload 
 
 - ### Mathematical Foundation
 - Linear Algebra for high-dimensional representations
