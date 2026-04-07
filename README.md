@@ -53,7 +53,7 @@
 - Reinforcement Learning for control systems
 - Physics-informed policy optimization
 
-### Cloud AI and Distributed ML Systems
+## Cloud AI and Distributed ML Systems
 - Cloud-based model training and inference workflows
 - Hybrid compute architecture (local GPU + cloud GPU)
 - AWS AI ecosystem integration
@@ -63,7 +63,7 @@
 - Distributed training orchestration concepts
 - Data pipeline integration for ML workload 
 
-- ### Mathematical Foundation
+- ## Mathematical Foundation
 - Linear Algebra for high-dimensional representations
 - Probability Theory for uncertainty modeling
 - Statistics for inference and evaluation metrics
