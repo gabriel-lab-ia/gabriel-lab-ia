@@ -1,14 +1,4 @@
-  <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia/commits">
-    <img src="https://img.shields.io/github/last-commit/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Last Commit" />
-  </a>
-  <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia">
-  <img src="https://img.shields.io/github/repo-size/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Repository Size" />
-  </a>
-  <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia">
-  <img src="https://img.shields.io/github/repo-size/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Repository Size" />
-  </a>
-  <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia">
-  <p align="center">
+
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" />
   <img src="https://img.shields.io/badge/C%2B%2B-High%20Performance-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PyTorch-Tensors%20%26%20Autograd-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
