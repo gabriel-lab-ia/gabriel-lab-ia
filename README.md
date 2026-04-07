@@ -20,8 +20,11 @@
 
 ## Core Technical Focus
 ### Machine Learning Engineering
-- Machine Learning for Data Analysis and intelligent systems (AI)
-- Reinforcement Learning engineering: PPO / SAC / TD3
+- MLOps (Machine Learning operations)
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning (PPO / SAC / TD3)
+- NLP (Natural Language Processing)
 - Real-time continuous-control evaluation
 - Latency-oriented benchmarks: CPU vs CUDA vs TensorRT
 
