@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/Matplotlib-Analysis%20%26%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Jupyter-Research%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+<img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-Cloud%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning" />
 <img src="https://img.shields.io/badge/DRL-Deep%20Reinforcement%20Learning-0F172A?style=for-the-badge" alt="Deep Reinforcement Learning" />
