@@ -41,7 +41,7 @@ Work centered on control, optimization, and systems engineering, integrating Ten
 ## Core Technical Focus
 
 ### Machine Learning Engineering
-- Machine Learning for data analysis and intelligent systems
+- Machine Learning for Data Analysis and intelligent systems (AI)
 - Reinforcement Learning engineering: PPO / SAC / TD3
 - Real-time continuous-control evaluation
 - Latency-oriented benchmarks: CPU vs CUDA vs TensorRT
