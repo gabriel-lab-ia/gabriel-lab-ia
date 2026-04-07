@@ -1,6 +1,6 @@
 
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" /> <img src="https://img.shields.io/badge/C%2B%2B-High%20Performance-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/PyTorch-Tensors%20%26%20Autograd-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" /> <img src="https://img.shields.io/badge/Matplotlib-Analysis%20%26%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />  <img src="https://img.shields.io/badge/Jupyter-Research%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/DRL-Deep%20Reinforcement%20Learning-0F172A?style=for-the-badge" alt="Deep Reinforcement Learning" />
-</p>
+</p> <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-Cloud%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning" />
 
 # Gabriel Duarte
 
