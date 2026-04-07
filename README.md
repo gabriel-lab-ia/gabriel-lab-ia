@@ -18,7 +18,7 @@
 **Bachelor's Student Early-Career**  
 **Machine Learning • Deep Learning • Reinforcement Learning**
 
-*Engineering trajectory focused on Machine Learning, Data Science, Reinforcement Learning, HPC and low-latency inference pipelines built on the GPUs ecosystem.*
+*Engineering focused on Machine Learning, Data Science, Reinforcement Learning, HPC and low-latency inference pipelines built on the GPUs ecosystem.*
 
 ## Core Technical Focus
 ### Machine Learning & Deep Learning Engineering
