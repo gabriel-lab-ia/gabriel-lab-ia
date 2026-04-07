@@ -34,6 +34,16 @@
 - Recurrent Neural Networks (RNNs)
 - Latency-oriented benchmarks: CPU vs GPU vs CUDA vs TensorRT
 
+### Cloud AI and Distributed ML Systems
+- Cloud-based model training and inference workflows
+- Hybrid compute architecture (local GPU + cloud GPU)
+- AWS AI ecosystem integration
+- Azure Machine Learning pipelines
+- Experiment tracking and model versioning
+- Scalable inference endpoints
+- Distributed training orchestration concepts
+- Data pipeline integration for ML workloads
+
 ### Model Export and Inference Optimization
 - Policy export: PyTorch -> ONNX -> TensorRT FP16
 - ONNX Runtime CUDA
@@ -48,9 +58,17 @@
 - Parallel simulation and vectorized training workflows
 
 ### Simulation and Robotics
-- NVIDIA Isaac Gym / CUDA
-- MuJoCo 3.5
-- ROS2 (Jazzy)
+- NVIDIA Isaac Gym GPU simulation environments
+- MuJoCo 3.5 physics engine
+- ROS2 (Jazzy) robotics middleware
+- Reinforcement Learning for control systems
+- Physics-informed policy optimization
+
+- ### Mathematical Foundation
+- Linear Algebra for high-dimensional representations
+- Probability Theory for uncertainty modeling
+- Statistics for inference and evaluation metrics
+- Optimization methods for gradient-based learning
 
 *Mathematics for ML: linear algebra, Statistc and Probability in University with my independent engineering development in AI, Reinforcement Learning, Isaac Gym, CUDA 13, TensorRT, MuJoCo, ROS2, low-latency control, and GPU systems, this forms a dual-track training approach: one academic and one technically aggressive, industry-aligned track.*
 
