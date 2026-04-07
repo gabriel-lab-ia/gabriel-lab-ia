@@ -21,14 +21,18 @@
 *Engineering trajectory focused on Machine Learning, Data Science, Reinforcement Learning, HPC and low-latency inference pipelines built on the GPUs ecosystem.*
 
 ## Core Technical Focus
-### Machine Learning Engineering
+### Machine Learning & Deep Learning Engineering
 - MLOps (Machine Learning operations)
 - Supervised Learning
 - Unsupervised Learning
 - Reinforcement Learning (PPO / SAC / TD3)
 - NLP (Natural Language Processing)
-- Real-time continuous-control evaluation
-- Latency-oriented benchmarks: CPU vs CUDA vs TensorRT
+- Deep Learning and Artificial Neural Networks
+- Feedforward Neural Networks (FNN)
+- Convolutional Neural Networks (CNNs)
+- Adversarial Neural Networks (GANs)
+- Recurrent Neural Networks (RNNs)
+- Latency-oriented benchmarks: CPU vs GPU vs CUDA vs TensorRT
 
 ### Model Export and Inference Optimization
 - Policy export: PyTorch -> ONNX -> TensorRT FP16
