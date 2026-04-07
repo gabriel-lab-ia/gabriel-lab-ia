@@ -67,16 +67,12 @@
 - Linear Algebra and High-Dimensional Geometry
 - Vector spaces and subspaces
 - Linear transformations and matrix representations
-- Singular Value Decomposition (SVD)
-- Probability Theory and Stochastic Processes
-- Random variables and distributions
-- Bayesian inference and posterior estimation
+- Probability Theory
+- Bayesian inference 
 - Monte Carlo estimation
-- Markov chains
 - Markov Decision Processes (MDP)
 - Statistical Learning Theory
 - Bias-variance decomposition
-- Cross-validation methodologies
 - Regularization techniques (L1, L2, weight decay)
 - Likelihood-based evaluation metrics
 - Calibration of probabilistic predictions
