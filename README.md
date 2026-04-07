@@ -57,9 +57,8 @@
 - Parallel simulation and vectorized training workflows
 
 ### Simulation and Robotics
-- NVIDIA Isaac Gym
+- NVIDIA Isaac Gym / CUDA
 - MuJoCo 3.5
-- Control-loop engineering
 - ROS2 (Jazzy)
 
 *Mathematics for ML: linear algebra, Statistc and Probability in University with my independent engineering development in AI, Reinforcement Learning, Isaac Gym, CUDA 13, TensorRT, MuJoCo, ROS2, low-latency control, and GPU systems, this forms a dual-track training approach: one academic and one technically aggressive, industry-aligned track.*
