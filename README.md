@@ -53,7 +53,7 @@
 - Reinforcement Learning for control systems
 - Physics-informed policy optimization
 
-## Cloud AI and Distributed ML Systems
+### Cloud AI and Distributed ML Systems
 - Cloud-based model training and inference workflows
 - Hybrid compute architecture (local GPU + cloud GPU)
 - AWS AI ecosystem integration
@@ -64,10 +64,19 @@
 - Data pipeline integration for ML workload 
 
 - ## Mathematical Foundation
-- Linear Algebra for high-dimensional representations
-- Probability Theory for uncertainty modeling
-- Statistics for inference and evaluation metrics
-- Optimization methods for gradient-based learning
-
-*Mathematics for ML: linear algebra, Statistc and Probability in University with my independent engineering development in AI, Reinforcement Learning, Isaac Gym, CUDA 13, TensorRT, MuJoCo, ROS2, low-latency control, and GPU systems, this forms a dual-track training approach: one academic and one technically aggressive, industry-aligned track.*
-
+- Linear Algebra and High-Dimensional Geometry
+- Vector spaces and subspaces
+- Linear transformations and matrix representations
+- Singular Value Decomposition (SVD)
+- Probability Theory and Stochastic Processes
+- Random variables and distributions
+- Bayesian inference and posterior estimation
+- Monte Carlo estimation
+- Markov chains
+- Markov Decision Processes (MDP)
+- Statistical Learning Theory
+- Bias-variance decomposition
+- Cross-validation methodologies
+- Regularization techniques (L1, L2, weight decay)
+- Likelihood-based evaluation metrics
+- Calibration of probabilistic predictions
