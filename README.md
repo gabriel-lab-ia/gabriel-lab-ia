@@ -1,9 +1,3 @@
-
-
-
-  <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia/stargazers">
-    <img src="https://img.shields.io/github/stars/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="GitHub Stars" />
-  </a>
   <a href="https://github.com/gabriel-lab-ia/gabriel-lab-ia/commits">
     <img src="https://img.shields.io/github/last-commit/gabriel-lab-ia/gabriel-lab-ia?style=for-the-badge" alt="Last Commit" />
   </a>
