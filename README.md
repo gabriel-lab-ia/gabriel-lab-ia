@@ -45,14 +45,15 @@
 - TensorRT 10: builder, engines, and FP16 optimization
 - Parallel simulation and vectorized training workflows
 
-### Simulation and Robotics
+
+ ### Simulation and Robotics
 - NVIDIA Isaac Gym GPU simulation environments
 - MuJoCo 3.5 physics engine
 - ROS2 (Jazzy) robotics middleware
 - Reinforcement Learning for control systems
 - Physics-informed policy optimization
 
-### Cloud AI and Distributed ML Systems
+ ### Cloud AI and Distributed ML Systems
 - Cloud-based model training and inference workflows
 - Hybrid compute architecture (local GPU + cloud GPU)
 - AWS AI ecosystem integration
@@ -62,7 +63,7 @@
 - Distributed training orchestration concepts
 - Data pipeline integration for ML workload 
 
-- ## Mathematical Foundation
+ ## Mathematical Foundation
 - Linear Algebra and High-Dimensional Geometry
 - Vector spaces and subspaces
 - Linear transformations and matrix representations
