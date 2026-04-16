@@ -32,7 +32,7 @@
 # Gabriel Duarte
 
 **Bachelor's Student Early-Career**  
-***Machine Learning • Deep Learning • Reinforcement Learning***
+***Machine Learning • Deep Learning • Reinforcement Learning & Artificial Inteligence***
 
 *Engineering focused on Machine Learning, Data Science, Reinforcement Learning, Artificial Neural Networks (ANNs), HPC and low-latency inference pipelines built on the CPU/GPU ecosystem.*
 
