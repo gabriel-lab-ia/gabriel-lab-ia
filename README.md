@@ -36,6 +36,11 @@
 
 *Engineering focused on Machine Learning, Data Science, Reinforcement Learning, Artificial Neural Networks (ANNs), HPC and low-latency inference pipelines built on the GPUs ecosystem.*
 
+👨🏽‍💻 ### Hardware & GPU Acceleration
+- **NVIDIA RTX 4050** (Laptop GPU) 
+- **CUDA** 12.x
+
+
 ## Core Technical Focus
 ### Machine Learning & Deep Learning Engineering
 - MLOps (Machine Learning operations)
