@@ -34,7 +34,7 @@
 **Bachelor's Student Early-Career**  
 ***Machine Learning • Deep Learning • Reinforcement Learning***
 
-*Engineering focused on Machine Learning, Data Science, Reinforcement Learning, Artificial Neural Networks (ANNs), HPC and low-latency inference pipelines built on the GPUs ecosystem.*
+*Engineering focused on Machine Learning, Data Science, Reinforcement Learning, Artificial Neural Networks (ANNs), HPC and low-latency inference pipelines built on the CPU/GPU ecosystem.*
 
 ### Hardware & GPU Acceleration 👨🏽‍💻 
 - **NVIDIA RTX 4050** (Laptop GPU) 
