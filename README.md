@@ -90,3 +90,5 @@
 - Regularization techniques (L1, L2, weight decay)
 - Likelihood-based evaluation metrics
 - Calibration of probabilistic predictions
+
+### "Building at the intersection of high-fidelity physics and neural control. 1st-semester student, but the kernels are already running in C++20."
