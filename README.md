@@ -42,7 +42,7 @@
 
 
 ## Core Technical Focus
-### Machine Learning & Deep Learning Engineering
+### Machine Learning Engineering
 - MLOps (Machine Learning operations)
 - Supervised Learning
 - Unsupervised Learning
