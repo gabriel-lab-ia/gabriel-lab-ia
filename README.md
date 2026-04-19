@@ -13,16 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="52" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MLOps-111827?style=flat-square&logo=mlflow&logoColor=white" height="24" alt="MLOps" />
-</p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Deep+Learning+Systems;Reinforcement+Learning;CUDA+%7C+PyTorch+%7C+TensorRT;High+Performance+AI+Pipelines" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,25:0B1220,50:111827,75:0F172A,100:000000&height=220&section=header&text=Gabriel%20Duarte&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Systems%20%7C%20Reinforcement%20Learning%20%7C%20High-Performance%20Inference&descAlignY=58&descSize=18" alt="Header"/>
 </p>
-
----
 
 <p align="center">
 
