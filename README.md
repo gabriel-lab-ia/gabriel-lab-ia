@@ -40,7 +40,7 @@
 - **NVIDIA RTX 4050** (Laptop GPU) 
 - **CUDA** 12.x
 
-## Technical Focus & Engineering Depth
+## Technical Focus
 
 ### Machine Learning Engineering & MLOps
 * **Scalable MLOps:** Designing end-to-end pipelines with focus on reproducibility, artifact versioning, and experiment tracking (**SQLite / MLflow**).
