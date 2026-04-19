@@ -15,10 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="52" alt="SQLite" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,25:0B1220,50:111827,75:0F172A,100:000000&height=220&section=header&text=Gabriel%20Duarte&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Systems%20%7C%20Reinforcement%20Learning%20%7C%20High-Performance%20Inference&descAlignY=58&descSize=18" alt="Header"/>
-</p>
 
-<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
