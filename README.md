@@ -32,8 +32,7 @@
 
 ---
 
-## Machine Learning • Deep Learning • Reinforcement Learning • Artificial Intelligence
-
+## Machine Learning • Deep Learning • Reinforcement Learning • Artificial Intelligence (Bacharelor's Student)
 Engineering-focused profile oriented toward **machine learning systems**, **probabilistic modeling**, and **high-performance inference pipelines** operating across CPU/GPU environments.
 
 ---
