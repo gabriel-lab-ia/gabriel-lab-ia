@@ -1,17 +1,4 @@
-<p>
-<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" />
-<img src="https://img.shields.io/badge/C%2B%2B-High%20Performance-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/PyTorch-Tensors%20%26%20Autograd-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" />
-<img  src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Jupyter-Research%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
-<img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure%20Machine%20Learning-Cloud%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning" />
-<img src="https://img.shields.io/badge/DRL-Deep%20Reinforcement%20Learning-0F172A?style=for-the-badge" alt="Deep Reinforcement Learning" />
-</p>
-
+# Gabriel Duarte
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="C++" />
@@ -29,48 +16,86 @@
   <img src="https://img.shields.io/badge/MLOps-111827?style=flat-square&logo=mlflow&logoColor=white" height="24" alt="MLOps" />
 </p>
 
-# Gabriel Duarte
+<p align="center">
 
-**Bachelor's Student Early-Career**  
-***Machine Learning • Deep Learning • Reinforcement Learning & Artificial Inteligence***
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Deep+Learning+Systems;Reinforcement+Learning;CUDA+%7C+PyTorch+%7C+TensorRT;High+Performance+AI+Pipelines" alt="Typing SVG" />
 
-*Engineering focused on Machine Learning, Data Science, Reinforcement Learning, Artificial Neural Networks (ANNs), HPC and low-latency inference pipelines built on the CPU/GPU ecosystem.*
+</p>
 
-### Hardware & GPU Acceleration 👨🏽‍💻 
-- **NVIDIA RTX 4050** (Laptop GPU) 
-- **CUDA** 12.x
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-GPU%20Acceleration-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorRT-FP16%20Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-Runtime-005CED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-PPO%20%7C%20SAC%20%7C%20TD3-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-Embedded%20DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-Reproducible%20Pipelines-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Pop!__OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</p>
+
+---
+
+## Machine Learning • Deep Learning • Reinforcement Learning • Artificial Intelligence
+
+Engineering-focused profile oriented toward **machine learning systems**, **probabilistic modeling**, and **high-performance inference pipelines** operating across CPU/GPU environments.
+
+---
 
 ## Technical Focus
 
 ### Machine Learning Engineering & MLOps
-* **Scalable MLOps:** Designing end-to-end pipelines with focus on reproducibility, artifact versioning, and experiment tracking (**SQLite / MLflow**).
-* **Deep Reinforcement Learning (DRL):** Practical implementation of actor-critic frameworks, specifically **PPO, SAC, and TD3** for autonomous control.
-* **Predictive Modeling:** Advanced supervised and unsupervised learning for high-dimensional risk assessment and temporal data integrity.
-* **Neural NLP:** Architectures for processing and understanding sequential linguistic data.
 
-### Deep Learning & Neural Architectures
-* **Artificial Neural Networks (ANN):** Comprehensive design of deep learning models with custom-tuned autograd and loss functions.
-* **Feedforward Networks (FNN):** Optimized for high-frequency tabular and macroeconomic data processing.
-* **Convolutional & Recurrent (CNN/RNN):** Implementation of spatial and temporal feature extraction for signal processing and real-time telemetry.
-* **Generative Adversarial Networks (GANs):** Exploring synthetic data generation and adversarial training for model robustness.
+- End-to-end ML pipelines emphasizing reproducibility and experiment tracking
+- Feature engineering for structured and temporal datasets
+- Experiment persistence using SQLite
+- Statistical evaluation and probabilistic calibration
 
-### High-Performance Inference & Systems
-* **Low-Latency Pipelines:** Developing **C++20 / CUDA-accelerated** inference paths for real-time applications.
-* **Hardware-Aware Optimization:** Model quantization and export (**PyTorch → ONNX → TensorRT FP16/INT8**) to maximize GPU throughput on NVIDIA hardware.
-* **System Integration:** Bridging the gap between high-fidelity physics simulations and neural control systems using **zero-copy memory** principles.
+---
 
- ## Mathematical Foundation
-- Linear Algebra and High-Dimensional Geometry
-- Vector spaces and subspaces
-- Linear transformations and matrix representations
+### Deep Learning & Reinforcement Learning
+
+- PPO, SAC, TD3 implementations
+- Neural networks for tabular and sequential modeling
+- Monte Carlo estimation techniques
+- Uncertainty-aware inference pipelines
+
+---
+
+### High-Performance ML Systems
+
+- PyTorch → ONNX → TensorRT optimization workflow
+- FP16 GPU inference optimization
+- CUDA-aware model deployment
+- Efficient inference pipeline design
+- Integration with simulation environments
+
+---
+
+## Mathematical Foundation
+
+- Linear Algebra
 - Probability Theory
-- Bayesian inference 
-- Monte Carlo estimation
-- Markov Decision Processes (MDP)
+- Bayesian inference
+- Monte Carlo methods
+- Markov Decision Processes
 - Statistical Learning Theory
-- Bias-variance decomposition
-- Regularization techniques (L1, L2, weight decay)
-- Likelihood-based evaluation metrics
+- Bias–variance tradeoff
+- Regularization methods
+- Likelihood-based evaluation
 - Calibration of probabilistic predictions
 
-### "Building at the intersection of high-fidelity physics and neural control. 1st-semester student, but the kernels are already running in C++20."
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-lab-ia&theme=dark&hide_border=true&background=000000"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-lab-ia&theme=react-dark&hide_border=true&area=true"/>
+
+</p>
