@@ -40,42 +40,24 @@
 - **NVIDIA RTX 4050** (Laptop GPU) 
 - **CUDA** 12.x
 
+## Technical Focus & Engineering Depth
 
-## Core Technical Focus
-### Machine Learning Engineering
-- MLOps (Machine Learning operations)
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning (PPO / SAC / TD3)
-- NLP (Natural Language Processing)
-- Deep Learning and Artificial Neural Networks
-- Feedforward Neural Networks (FNN)
-- Convolutional Neural Networks (CNNs)
-- Adversarial Neural Networks (GANs)
-- Recurrent Neural Networks (RNNs)
+### Machine Learning Engineering & MLOps
+* **Scalable MLOps:** Designing end-to-end pipelines with focus on reproducibility, artifact versioning, and experiment tracking (**SQLite / MLflow**).
+* **Deep Reinforcement Learning (DRL):** Practical implementation of actor-critic frameworks, specifically **PPO, SAC, and TD3** for autonomous control.
+* **Predictive Modeling:** Advanced supervised and unsupervised learning for high-dimensional risk assessment and temporal data integrity.
+* **Neural NLP:** Architectures for processing and understanding sequential linguistic data.
 
-### Model Export and Inference Optimization
-- Policy export: PyTorch -> ONNX -> TensorRT FP16
-- ONNX Runtime CUDA
-- Low-latency inference design
-- Real-time RL system execution
-- Model compression and runtime optimization
+### Deep Learning & Neural Architectures
+* **Artificial Neural Networks (ANN):** Comprehensive design of deep learning models with custom-tuned autograd and loss functions.
+* **Feedforward Networks (FNN):** Optimized for high-frequency tabular and macroeconomic data processing.
+* **Convolutional & Recurrent (CNN/RNN):** Implementation of spatial and temporal feature extraction for signal processing and real-time telemetry.
+* **Generative Adversarial Networks (GANs):** Exploring synthetic data generation and adversarial training for model robustness.
 
-### GPU and High-Performance Computing
-- CUDA Toolkit 12.0 & CUDA Runtime 13
-- PyTorch & TensorRT
-- TensorRT 10: builder, engines, and FP16 optimization
-- Parallel simulation and vectorized training workflows
-
- ### Cloud AI and Distributed ML Systems
-- Cloud-based model training and inference workflows
-- Hybrid compute architecture (local GPU + cloud GPU)
-- AWS AI ecosystem integration
-- Azure Machine Learning pipelines
-- Experiment tracking and model versioning
-- Scalable inference endpoints
-- Distributed training orchestration concepts
-- Data pipeline integration for ML workload 
+### High-Performance Inference & Systems
+* **Low-Latency Pipelines:** Developing **C++20 / CUDA-accelerated** inference paths for real-time applications.
+* **Hardware-Aware Optimization:** Model quantization and export (**PyTorch → ONNX → TensorRT FP16/INT8**) to maximize GPU throughput on NVIDIA hardware.
+* **System Integration:** Bridging the gap between high-fidelity physics simulations and neural control systems using **zero-copy memory** principles.
 
  ## Mathematical Foundation
 - Linear Algebra and High-Dimensional Geometry
