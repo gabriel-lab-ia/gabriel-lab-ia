@@ -19,7 +19,7 @@
 
 ---
 
-## Artificial Intelligence (Bacharelor's Student)
+## Artificial Intelligence Engineering Student
 ## Technical Focus
 ### Machine Learning Engineering 
 - End-to-end ML pipelines emphasizing reproducibility and experiment tracking
