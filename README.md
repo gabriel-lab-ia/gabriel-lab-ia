@@ -8,18 +8,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="52" alt="Google Colab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
 
-
-<p align="center">
-
-
-<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Pop!__OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</p>
-
----
-
 ## Artificial Intelligence Engineering Student
+
 ## Technical Focus
 ### Machine Learning Engineering 
 - End-to-end ML pipelines emphasizing reproducibility and experiment tracking
