@@ -15,22 +15,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="52" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="52" alt="SQLite" />
 
-## Artificial Intelligence Engineering Student
+### Machine Learning Engineering & MLOps
+- End-to-end ML pipelines with reproducibility, experiment tracking, and structured evaluation
+- Feature engineering for structured, temporal, and scientific datasets
+- Statistical validation, probabilistic calibration, uncertainty estimation, and error analysis
+- Local-first ML systems with versioned artifacts, clean architecture, and observable inference workflows
 
-## Technical Focus
-### Machine Learning Engineering 
-- End-to-end ML pipelines emphasizing reproducibility and experiment tracking
-- Feature engineering for structured and temporal datasets
-- Statistical evaluation and probabilistic calibration
-  
-### Deep Learning & Reinforcement Learning
-- PPO, SAC, TD3 implementations
-- Neural networks for tabular and sequential modeling
-- Monte Carlo estimation techniques
-- Uncertainty-aware inference pipelines
+### Deep Learning & Scientific AI
+- PyTorch-based neural networks for tabular, geometric, and sequential modeling
+- Representation learning, embeddings, nonlinear activations, and probabilistic outputs
+- Monte Carlo estimation and uncertainty-aware inference pipelines
+- Applied deep learning for scientific computing, quantum-inspired systems, and high-dimensional data
+
+### Reinforcement Learning & Control
+- PPO-based reinforcement learning experiments with reproducible training loops
+- Interest in SAC, TD3, policy optimization, and continuous-control environments
+- Simulation-oriented AI for control systems, robotics, orbital dynamics, and decision-making
+- Python/C++ foundations for performance-aware AI engineering
+
+### Quantum AI & Computational Modeling
+- Quantum computing fundamentals: qubits, statevectors, Bloch sphere geometry, and linear algebra
+- Neural networks learning quantum-inspired representations and correlation patterns
+- Experimentation with Qiskit, Cirq, PyTorch, and scientific visualization
 
 ## Mathematical Foundation
-- Linear Algebra
-- Probability Theory
-- Bayesian inference
-- Statistical Learning Theory
+- Linear Algebra: vectors, matrices, projections, eigenspaces, embeddings, and geometric intuition
+- Probability & Statistics: distributions, uncertainty, entropy, calibration, variance, and model evaluation
+- Bayesian Reasoning: probabilistic inference, uncertainty modeling, and decision-making under uncertainty
+- Optimization: gradients, loss functions, neural network training, and policy optimization
+- Statistical Learning Theory: generalization, bias-variance tradeoff, overfitting, and validation
+- Geometry for AI: high-dimensional spaces, dimensionality reduction, and representation learning
