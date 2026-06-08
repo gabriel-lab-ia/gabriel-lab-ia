@@ -33,12 +33,7 @@
 - PPO-based reinforcement learning experiments with reproducible training loops
 - Interest in SAC, TD3, policy optimization, and continuous-control environments
 - Simulation-oriented AI for control systems, robotics, orbital dynamics, and decision-making
-- Python/C++ foundations for performance-aware AI engineering
-
-### Quantum AI & Computational Modeling
-- Quantum computing fundamentals: qubits, statevectors, Bloch sphere geometry, and linear algebra
-- Neural networks learning quantum-inspired representations and correlation patterns
-- Experimentation with Qiskit, Cirq, PyTorch, and scientific visualization
+- Python/C++/Rust foundations for performance-aware AI engineering
 
 ## Mathematical Foundation
 - Linear Algebra: vectors, matrices, projections, eigenspaces, embeddings, and geometric intuition
