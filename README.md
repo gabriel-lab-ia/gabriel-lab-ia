@@ -19,7 +19,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="52" alt="PyTorch" />
   <img src="https://cdn.simpleicons.org/databricks" height="52" alt="Databricks" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
-  
+
+### Software Engineering & Development Tools
+* Clean architecture, modular design, API development, and production-oriented code organization
+* Backend development with Python, FastAPI, PostgreSQL, SQL, and RESTful services
+* Containerized applications and deployment workflows with Docker, Kubernetes, and Linux
+* Version control, collaboration, and CI/CD workflows using Git, GitHub, GitHub Actions, and VS Code
+* MLOps tooling with MLflow, experiment tracking, reproducible environments, and deployment-ready pipelines
+* Data and AI infrastructure using Apache Spark, Databricks, PostgreSQL, and cloud platforms
+
 ### Machine Learning Systems & MLOps
 * End-to-end machine learning pipelines with experiment tracking, reproducibility, and model lifecycle management
 * Feature engineering and data processing for structured, temporal, and scientific datasets
@@ -37,15 +45,6 @@
 * Continuous-control environments, policy optimization, and decision-making systems
 * Simulation-driven AI for robotics, control systems, and autonomous platforms
 * Performance-oriented engineering with Python and C++ for scalable AI applications
-
-### Software Engineering & Development Tools
-* Clean architecture, modular design, API development, and production-oriented code organization
-* Backend development with Python, FastAPI, PostgreSQL, SQL, and RESTful services
-* Containerized applications and deployment workflows with Docker, Kubernetes, and Linux
-* Version control, collaboration, and CI/CD workflows using Git, GitHub, GitHub Actions, and VS Code
-* MLOps tooling with MLflow, experiment tracking, reproducible environments, and deployment-ready pipelines
-* Data and AI infrastructure using Apache Spark, Databricks, PostgreSQL, and cloud platforms
-
 
 ## Mathematical Foundations
 * Linear Algebra: vectors, matrices, eigenspaces, embeddings, and geometric representations
