@@ -20,28 +20,37 @@
   <img src="https://cdn.simpleicons.org/databricks" height="52" alt="Databricks" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
   
-### Machine Learning Engineering & MLOps
-- End-to-end ML pipelines with reproducibility, experiment tracking, and structured evaluation
-- Feature engineering for structured, temporal, and scientific datasets
-- Statistical validation, probabilistic calibration, uncertainty estimation, and error analysis
-- Local-first ML systems with versioned artifacts, clean architecture, and observable inference workflows
+### Machine Learning Systems & MLOps
+* End-to-end machine learning pipelines with experiment tracking, reproducibility, and model lifecycle management
+* Feature engineering and data processing for structured, temporal, and scientific datasets
+* Model evaluation, statistical validation, uncertainty estimation, and performance monitoring
+* Production-oriented AI systems with versioned artifacts, clean architecture, and deployment workflows
 
-### Deep Learning & Scientific AI
-- PyTorch-based neural networks for tabular, geometric, and sequential modeling
-- Representation learning, embeddings, nonlinear activations, and probabilistic outputs
-- Monte Carlo estimation and uncertainty-aware inference pipelines
-- Applied deep learning for scientific computing, quantum-inspired systems, and high-dimensional data
+### Deep Learning & AI Engineering
+* PyTorch-based neural networks for predictive modeling, representation learning, and scientific applications
+* Embeddings, nonlinear architectures, probabilistic outputs, and uncertainty-aware inference
+* GPU-accelerated deep learning workflows for scalable experimentation and deployment
+* Applied AI for scientific computing, high-dimensional data, and complex systems modeling
 
-### Reinforcement Learning & Control
-- PPO-based reinforcement learning experiments with reproducible training loops
-- Interest in SAC, TD3, policy optimization, and continuous-control environments
-- Simulation-oriented AI for control systems, robotics, orbital dynamics, and decision-making
-- Python/C++/Rust foundations for performance-aware AI engineering
+### Reinforcement Learning & Autonomous Systems
+* PPO-based reinforcement learning pipelines with reproducible training and evaluation workflows
+* Continuous-control environments, policy optimization, and decision-making systems
+* Simulation-driven AI for robotics, control systems, and autonomous platforms
+* Performance-oriented engineering with Python and C++ for scalable AI applications
 
-## Mathematical Foundation
-- Linear Algebra: vectors, matrices, projections, eigenspaces, embeddings, and geometric intuition
-- Probability & Statistics: distributions, uncertainty, entropy, calibration, variance, and model evaluation
-- Bayesian Reasoning: probabilistic inference, uncertainty modeling, and decision-making under uncertainty
-- Optimization: gradients, loss functions, neural network training, and policy optimization
-- Statistical Learning Theory: generalization, bias-variance tradeoff, overfitting, and validation
-- Geometry for AI: high-dimensional spaces, dimensionality reduction, and representation learning
+### Software Engineering & Development Tools
+* Clean architecture, modular design, API development, and production-oriented code organization
+* Backend development with Python, FastAPI, PostgreSQL, SQL, and RESTful services
+* Containerized applications and deployment workflows with Docker, Kubernetes, and Linux
+* Version control, collaboration, and CI/CD workflows using Git, GitHub, GitHub Actions, and VS Code
+* MLOps tooling with MLflow, experiment tracking, reproducible environments, and deployment-ready pipelines
+* Data and AI infrastructure using Apache Spark, Databricks, PostgreSQL, and cloud platforms
+
+
+## Mathematical Foundations
+* Linear Algebra: vectors, matrices, eigenspaces, embeddings, and geometric representations
+* Probability & Statistics: uncertainty quantification, distributions, calibration, and model evaluation
+* Bayesian Methods: probabilistic inference and decision-making under uncertainty
+* Optimization: gradient-based learning, loss functions, and policy optimization
+* Statistical Learning: generalization, validation, bias-variance tradeoff, and model robustness
+* Geometry for AI: dimensionality reduction, representation learning, and high-dimensional spaces
