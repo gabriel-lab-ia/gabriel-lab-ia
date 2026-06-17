@@ -1,6 +1,6 @@
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/78d83327-f42b-4a02-aaf2-eda0eb71b6ef" />
 
-# Gabriel Duarte / AI Deployment Engineer
+ AI Deployment Engineer
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" alt="Microsoft Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="52" alt="Google Cloud" />
