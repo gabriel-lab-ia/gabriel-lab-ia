@@ -3,6 +3,14 @@
 <img width="1600" height="900" alt="AI Deployment Engineer Banner" src="https://github.com/user-attachments/assets/78d83327-f42b-4a02-aaf2-eda0eb71b6ef" />
 
 <h1 align="center">Skills</h1>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="52" alt="Google Cloud" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="52" alt="Google Colab" />
+  <img src="https://cdn.simpleicons.org/databricks/E36209" height="52" alt="Databricks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="52" alt="Kubernetes" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="Linux" />
+   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="52" alt="NVIDIA CUDA" />
+  </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="Git" />
@@ -18,14 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
   &nbsp;&nbsp;
 </p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="52" alt="Google Cloud" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="52" alt="Google Colab" />
-  <img src="https://cdn.simpleicons.org/databricks/E36209" height="52" alt="Databricks" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="52" alt="Kubernetes" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="Linux" />
-   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="52" alt="NVIDIA CUDA" />
-  </p>
 
 ### Software Engineering & Development Tools
 * Clean architecture, modular design, API development, and production-oriented code organization
